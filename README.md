@@ -1,1 +1,1 @@
-![Logo](hacker.png)
+![Logo](skull.png)
