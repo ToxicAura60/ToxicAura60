@@ -1,16 +1,29 @@
-## Hi there 👋
+# My Project
 
-<!--
-**ToxicAura60/ToxicAura60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Deskripsi singkat project.
 
-Here are some ideas to get you started:
+## Preview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+                 ..:::::::::..
+            ..:::aad8888888baa:::..
+         .::::d:?88888888888?::8b::::.
+       .:::d8888:?88888888??a888888b:::.
+     .:::d8888888a8888888aa8888888888b:::.
+:::
+:::
+:::
+ .::::88::::::::::::Y88888P::::::::::::88::::.
+:::
+:::
+:::
+ ':::::::::::::::8888888888888b::::::::::::::'
+:::
+:::
+:::
+     '::::::::::88::88::88:::88::::::::::'
+      ':::::::::88::88::P::::88:::::::::'
+        ':::::::88::88:::::::88:::::::'
+          '':::::::::::::::::::::::'
+              '':::::::::::::::''
+```
